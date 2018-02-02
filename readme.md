@@ -9,5 +9,5 @@ It made it easy to check if measuremts where succesful and useful.
 
 ## kalman_filter
 scilab code written after reading [this tutorial](http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/).
-Some more explanation [here](https://wordpress.com/post/learnscilab.wordpress.com/224).
+Some more explanation [here](https://learnscilab.wordpress.com/2016/04/11/kalman-filter-in-scilab/).
 
